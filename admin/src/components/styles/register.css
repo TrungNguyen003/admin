@@ -1,0 +1,428 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.main-container-4 {
+  overflow: hidden;
+}
+
+.main-container-4,
+.main-container-4 * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container-4 {
+  position: relative;
+  width: 1920px;
+  height: 950px;
+  margin: 0 auto;
+  background: #e0f4ff;
+  overflow: hidden;
+}
+.create-account-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 819px;
+  height: 118px;
+  top: 37px;
+  left: 999px;
+  color: #1d5d9b;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 117.888px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 5;
+}
+.image-4 {
+  position: absolute;
+  width: 887px;
+  height: 818px;
+  top: 64px;
+  left: 31px;
+  background: url(../assets/images/a68b42c18d57737b30fb136f01499ff9ae4c0bb9.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 1;
+}
+.inner-plugin-iframe-4 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 0;
+  left: 839px;
+  z-index: 3;
+  overflow: hidden;
+}
+.vector-4 {
+  position: relative;
+  width: 21.5px;
+  height: 17.5px;
+  margin: 15.25px 0 0 13.25px;
+  background: url(../assets/images/9829a1a9-b63f-4d96-81f4-27c2f3ef00a9.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 4;
+}
+.back-to-website-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 149px;
+  height: 25px;
+  top: 11px;
+  left: 692px;
+  color: #001a72;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.56px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 2;
+}
+.rectangle-4 {
+  position: absolute;
+  width: 225px;
+  height: 42px;
+  top: 67px;
+  left: 698px;
+  background: #e0f4ff;
+  opacity: 0.3;
+  border-radius: 13px;
+}
+.login-4 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  width: 74px;
+  height: 42px;
+  top: 162px;
+  left: 1410px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 42px;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 7;
+}
+.already-have-account-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 323px;
+  height: 35px;
+  top: 169px;
+  left: 1054px;
+  color: #000000;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 6;
+}
+
+
+
+.rectangle-1-4 {
+  position: absolute;
+  width: 775px;
+  height: 78px;
+  top: 258px;
+  left: 1048px;
+  font-size: 20px;
+  padding-left: 15px ;
+  background: #bedcfc;
+  z-index: 15;
+  border-radius: 22px;
+}
+.rectangle-2-4 {
+  position: absolute;
+  width: 775px;
+  height: 78px;
+  top: 370px;
+  left: 1043px;
+  font-size: 20px;
+  padding-left: 15px ;
+  background: #bedcfc;
+  z-index: 9;
+  border-radius: 22px;
+}
+.rectangle-3-4 {
+  position: absolute;
+  width: 370px;
+  height: 78px;
+  top: 482px;
+  left: 1043px;
+  font-size: 20px;
+  padding-left: 15px ;
+  background: #bedcfc;
+  z-index: 20;
+  border-radius: 22px;
+}
+.rectangle-4-4 {
+  position: absolute;
+  width: 370px;
+  height: 78px;
+  top: 482px;
+  left: 1453px;
+  font-size: 20px;
+  padding-left: 15px ;
+  background: #bedcfc;
+  z-index: 23;
+  border-radius: 22px;
+}
+.terms-conditions-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 233px;
+  height: 35px;
+  top: 599px;
+  left: 1307px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 13;
+}
+.agree-terms-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 172px;
+  height: 35px;
+  top: 602px;
+  left: 1101px;
+  color: #000000;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 11;
+}
+.rectangle-5-4 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 607px;
+  left: 1057px;
+  background: #1d5d9b;
+  z-index: 24;
+}
+.vector-6-4 {
+  position: relative;
+  width: 15px;
+  height: 9.676px;
+  margin: 7px 0 0 4px;
+  background: url(../assets/images/ecf79476-6609-4d6f-a18a-71cff88b0a80.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 25;
+}
+.rectangle-7-4 {
+  position: absolute;
+  width: 775px;
+  height: 78px;
+  top: 662px;
+  left: 1043px;
+  cursor: pointer;
+  background: #fbb03b;
+  border: none;
+  z-index: 16;
+  border-radius: 22px;
+}
+.create-account-8-4 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 35px;
+  top: 22px;
+  left: 290px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 17;
+}
+.register-with-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 192px;
+  height: 35px;
+  top: 774px;
+  left: 1332px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  opacity: 0.8;
+  z-index: 27;
+}
+.line-4 {
+  position: absolute;
+  width: 265px;
+  height: 1px;
+  top: 790px;
+  left: 1048px;
+  background: url(../assets/images/bc8bd11a-c191-4a64-ab38-b4ddb8e96b0f.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 28;
+}
+.line-9-4 {
+  position: absolute;
+  width: 265px;
+  height: 1px;
+  top: 790px;
+  left: 1548px;
+  background: url(../assets/images/c3692f3d-6f15-48ca-b3c7-cb888a5e4024.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 29;
+}
+.rectangle-a-4 {
+  position: absolute;
+  width: 370px;
+  height: 78px;
+  top: 814px;
+  left: 1443px;
+  cursor: pointer;
+  background: #bedcfc;
+  border: none;
+  z-index: 21;
+  border-radius: 22px;
+}
+.rectangle-b-4 {
+  position: absolute;
+  width: 370px;
+  height: 78px;
+  top: 814.5px;
+  left: 1036.5px;
+  cursor: pointer;
+  background: #bedcfc;
+  background-size: cover;
+  border: none;
+  border-radius: 22px;
+  z-index: 18;
+}
+.facebook-4 {
+  position: absolute;
+  width: 36px;
+  height: 42px;
+  top: 832px;
+  left: 1548px;
+  z-index: 36;
+  overflow: hidden;
+}
+.vector-c-4 {
+  position: relative;
+  width: 25.5px;
+  height: 42px;
+  margin: 0 0 0 1.5px;
+  background: url(../assets/images/f82d85b6-da26-4c98-b990-9626d7b25339.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 37;
+}
+.vector-d-4 {
+  position: absolute;
+  width: 2.54%;
+  height: 4.84%;
+  top: 87.79%;
+  left: 59.27%;
+  background: url(../assets/images/60eecc07-f3e1-4c4c-9624-8f8580b42692.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 32;
+}
+.google-4 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 36.587px;
+  top: 838px;
+  left: 1207px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35.37px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 33;
+}
+.facebook-e-4 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 35px;
+  top: 839px;
+  left: 1612px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 35;
+}
+
+
+.message {
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 24px;
+}

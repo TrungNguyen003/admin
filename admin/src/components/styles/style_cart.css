@@ -1,0 +1,397 @@
+.main-container-1 {
+  overflow: hidden;
+}
+
+.main-container-1,
+.main-container-1 * {
+  box-sizing: border-box;
+}
+
+.main-container-1 {
+  position: relative;
+  margin: 0 auto;
+  font-size: 0px;
+  width: 1850px;
+  height: 1080px;
+  background: #e0f4ff;
+  overflow: hidden;
+}
+
+
+.flex-row-fbd {
+  position: relative;
+  width: 1353px;
+  height: 118px;
+  margin: 12px 0 0 61px;
+  z-index: 51;
+}
+.cart-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 188px;
+  height: 118px;
+  top: 0;
+  left: 0;
+  color: #1d5d9b;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 117.888px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+}
+
+.description-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 35px;
+  top: 72px;
+  left: 581px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 36;
+}
+
+.quantity-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 35px;
+  top: 72px;
+  left: 955px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 49;
+}
+.price-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 35px;
+  top: 72px;
+  left: 1294px;
+  color: #1d5d9b;
+  font-family: Folks, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 51;
+}
+
+.rectangle-21a {
+  position: relative;
+  width: 1436px;
+  height: 150px;
+  margin: 4px 0 0 249px;
+  background: #fffbfb;
+  z-index: 2;
+  border-radius: 15px;
+}
+
+.rectangle-21b {
+  position: absolute;
+  width: 180px;
+  height: 130px;
+  top: 10px;
+  left: 15px;
+  z-index: 3;
+  font-size: 19px;
+  border-radius: 10px;
+}
+
+.flex-column-d-1 {
+  position: absolute;
+  width: 106px;
+  height: 64px;
+  top: 43px;
+  left: 261px;
+  font-size: 0px;
+  z-index: 39;
+}
+
+
+.product-1 {
+  display: block;
+  position: relative;
+  height: 29px;
+  margin: 0 0 0 0;
+  color: #1d5d9b;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 38;
+}
+.product-description-1 {
+  display: block;
+  position: relative;
+  height: 19px;
+  margin: 16px 0 0 0;
+  color: #61a3ba;
+  font-family: Folks, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.864px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 39;
+}
+
+.rectangle-a-1 {
+  position: absolute;
+  width: 148px;
+  height: 50px;
+  top: 50px;
+  left: 744px;
+  background: #ffffff;
+  border: 1px solid #61a3ba;
+  z-index: 9;
+  border-radius: 10px;
+}
+
+.plus {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 29px;
+  top: 9px;
+  left: 118px;
+  color: #61a3ba;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 9;
+  border: none;
+            outline: none;
+            padding: 0;
+            margin: 0;
+            background: none;
+            cursor: pointer;
+}
+.minus {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 29px;
+  top: 9px;
+  left: 16px;
+  color: #61a3ba;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 7;
+  border: none;
+            outline: none;
+            padding: 0;
+            margin: 0;
+            background: none;
+            cursor: pointer;
+}
+
+.quantity-b-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 29px;
+  top: 9px;
+  left: 67px;
+  color: #1d5d9b;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 8;
+}
+
+
+.vector-c-1 {
+  position: absolute;
+  width: 2.65%;
+  height: 25.33%;
+  top: 37.33%;
+  left: 92.34%;
+  background: url(../assets/images/b8229832-a182-45cf-a63b-e15abc464082.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 10;
+  border: none;
+            outline: none;
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
+}
+
+.price-d-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 57px;
+  height: 29px;
+  top: 60px;
+  left: 1107px;
+  color: #1d5d9b;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 4;
+}
+
+.flex-row-c-1 {
+  position: relative;
+  width: 691px;
+  height: 92px;
+  margin: 25px 0 0 950px;
+  z-index: 53;
+}
+.price-total {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 92px;
+  top: 0;
+  left: 120px;
+  color: #1d5d9b;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 92px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-2a-1 {
+  position: absolute;
+  width: 220px;
+  height: 75px;
+  top: 9px;
+  left: 471px;
+  background: #1d5d9b;
+  z-index: 53;
+  border-radius: 25px;
+}
+.payment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 136px;
+  height: 39px;
+  top: 18px;
+  left: 42px;
+  background-color:#1d5d9b ;
+  color: #fbb03b;
+  font-family: Inter, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 38.727px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  border: none;
+  outline: none;  
+  z-index: 54;
+}
+.total-text-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 49px;
+  top: 22px;
+  left: 0px;
+  color: #1d5d9b;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 49px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 50;
+}
+
+/* Định kiểu checkbox */
+.rectangle-21a input {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #1d5d9b;
+  border-radius: 5px;
+  background-color: #fff;
+  cursor: pointer;
+  position: relative;
+  z-index: 51;
+}
+
+/* Khi checkbox được chọn */
+/* Định kiểu checkbox */
+.rectangle-21a input:checked {
+  background-color: #1d5d9b;
+  border-color: #1d5d9b;
+}
+
+/* Tạo dấu tích khi checkbox được chọn */
+/* Định kiểu checkbox */
+.rectangle-21a input:checked::before {
+  content: '';
+  display: block;
+  width: 5px;
+  height: 8px;
+  border: solid #fbb03b;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 2px;
+  left: 6px;
+}
+
+.rectangle-21b img{
+  left: 20px;
+}

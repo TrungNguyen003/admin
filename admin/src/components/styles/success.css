@@ -1,0 +1,772 @@
+:root {
+    --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+      "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+      "Source Han Sans CN", sans-serif;
+  }
+  
+  .main-container-118 {
+    overflow: hidden;
+  }
+  
+  .main-container-118,
+  .main-container-118 * {
+    box-sizing: border-box;
+  }
+  
+  input,
+  select,
+  textarea,
+  button {
+    outline: 0;
+  }
+  
+  .main-container-118 {
+    position: relative;
+    width: 1850px;
+    height: 683.878px;
+    margin: 0 auto;
+  }
+  .rectangle-118 {
+    position: absolute;
+    width: 1019.557px;
+    height: 683.878px;
+    top: 0;
+    left: 0;
+    background: #ffffff;
+    border: 1px solid #000000;
+    z-index: 1;
+  }
+  .flex-row-fb-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 887.579px;
+    height: 27.486px;
+    margin: 5.983px 0 0 18.134px;
+    z-index: 29;
+  }
+  .group-1-118 {
+    flex-shrink: 0;
+    position: relative;
+    width: 26.808px;
+    height: 27.486px;
+    background: url(../assets/images/f6da0345-257a-4b3d-9e9c-2a30ae63062e.png)
+      no-repeat center;
+    background-size: 100% 100%;
+    z-index: 11;
+  }
+  .regroup-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+    position: relative;
+    width: 301.232px;
+    height: 27.486px;
+    z-index: 29;
+  }
+  .oders-code-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 14.341px;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 14.341px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 26;
+  }
+  .gqefp-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 14.341px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14.341px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 27;
+  }
+  .line-118 {
+    flex-shrink: 0;
+    position: relative;
+    width: 1px;
+    height: 13px;
+    background: url(../assets/images/667a3a89-b29e-47ab-9a5a-cbff4aaf0f70.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 29;
+  }
+  .rectangle-2-118 {
+    position: relative;
+    width: 975.228px;
+    height: 121px;
+    margin: 54.514px 0 0 22.164px;
+    background: rgba(29, 93, 155, 0.1);
+    z-index: 38;
+  }
+  .thank-you-shop-pets-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 28px;
+    top: 15px;
+    left: 27.202px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 39;
+  }
+  .flex-column-e-118 {
+    position: absolute;
+    width: 151.18px;
+    height: 77.125px;
+    top: 19px;
+    left: 807.989px;
+    z-index: 44;
+  }
+  .rectangle-3-118 {
+    position: relative;
+    width: 151.18px;
+    height: 29.125px;
+    margin: 0 0 0 0;
+    background: #ff0000;
+    z-index: 41;
+    border-radius: 5px;
+  }
+  .cancel-order-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 19.764px;
+    top: 4.161px;
+    left: 27.817px;
+    color: #ffffff;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 42;
+  }
+  .rectangle-4-118 {
+    position: relative;
+    width: 151.18px;
+    height: 29.125px;
+    margin: 18.875px 0 0 0;
+    background: #fdfcfc;
+    z-index: 44;
+    border-radius: 5px;
+  }
+  .lien-he-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 20px;
+    top: 5px;
+    left: 48.358px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 45;
+  }
+  .inner-plugin-iframe-118 {
+    position: relative;
+    width: 54.572px;
+    height: 25.503px;
+    margin: 246.563px 0 0 914.007px;
+    z-index: 8;
+    overflow: hidden;
+  }
+  .flex-row-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 412.093px;
+    height: 31px;
+    margin: -0.07px 0 0 563.174px;
+    z-index: 47;
+  }
+  .tong-tien-hang-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    width: 119.889px;
+    height: 31px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.234px;
+    text-align: left;
+    text-transform: capitalize;
+    z-index: 47;
+  }
+  .vnd-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 19.988px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19.988px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .flex-row-f-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 410.078px;
+    height: 30px;
+    margin: 11px 0 0 565.189px;
+    z-index: 48;
+  }
+  .phi-van-chuyen-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    width: 194.441px;
+    height: 30px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    text-transform: capitalize;
+    z-index: 48;
+  }
+  .vnd-5-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 19.988px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19.988px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 21;
+  }
+  .flex-row-cdb-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 378.846px;
+    height: 30px;
+    margin: 8px 0 0 596.421px;
+    z-index: 49;
+  }
+  .thanh-tien-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    width: 112.836px;
+    height: 30px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    text-transform: capitalize;
+    z-index: 49;
+  }
+  .vnd-6-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 19.988px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19.988px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 22;
+  }
+  .flex-row-7-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 472.541px;
+    height: 37px;
+    margin: 11px 0 0 507.764px;
+    z-index: 50;
+  }
+  .phuong-thuc-thanh-toan-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    width: 192.426px;
+    height: 37px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.234px;
+    text-align: left;
+    text-transform: capitalize;
+    z-index: 50;
+  }
+  .thanh-toan-khi-nhan-hang-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 19.988px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19.988px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 23;
+  }
+  .flex-row-d-118 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    width: 889.486px;
+    height: 23px;
+    top: 212.983px;
+    left: 48px;
+    z-index: 37;
+  }
+  .dia-chi-nhan-hang-118 {
+    flex-shrink: 0;
+    position: relative;
+    height: 23px;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 37;
+  }
+  .regroup-8-118 {
+    flex-shrink: 0;
+    position: relative;
+    width: 375.312px;
+    height: 23px;
+    z-index: 14;
+  }
+  .oder-placed-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 15.164px;
+    top: 5px;
+    left: 0;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 12.891px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 13;
+  }
+  .time-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 15.164px;
+    top: 7.118px;
+    left: 176.268px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 12.891px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 14;
+  }
+  .flex-row-9-118 {
+    position: absolute;
+    width: 409.846px;
+    height: 117px;
+    top: 212.983px;
+    left: 48.154px;
+    z-index: 46;
+  }
+  .line-a-118 {
+    position: absolute;
+    width: 1px;
+    height: 117px;
+    top: 0;
+    left: 409.248px;
+    background: url(../assets/images/87d52ff7-56ed-45f7-bd05-9cbc3f138127.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 46;
+  }
+  .address-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 14.939px;
+    top: 61px;
+    left: 0;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 12.891px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 36;
+  }
+  .line-b-118 {
+    position: absolute;
+    width: 412.054px;
+    height: 1px;
+    top: 235.322px;
+    left: 562.174px;
+    background: url(../assets/images/c7171e53-78d1-4bc9-84e7-ba786c9150ad.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 15;
+  }
+  .product-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 14.939px;
+    top: 239.983px;
+    left: 49.979px;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 12.891px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 32;
+  }
+  .flex-row-c-118 {
+    position: absolute;
+    width: 889.333px;
+    height: 18.164px;
+    top: 253.983px;
+    left: 48.154px;
+    z-index: 34;
+  }
+  .regroup-d-118{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    width: 375.313px;
+    height: 18.164px;
+    top: 0;
+    left: 514.021px;
+    z-index: 5;
+  }
+  .update-at-118{
+    flex-shrink: 0;
+    position: relative;
+    height: 15.29px;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 15.29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 4;
+  }
+  .time-e-117 {
+    flex-shrink: 0;
+    position: relative;
+    height: 15.29px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15.29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 5;
+  }
+  .phone-number-117 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 15.164px;
+    top: 3px;
+    margin: 0 0 0 2px;
+    left: 0;
+    color: #1d5d9b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 12.891px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 34;
+  }
+  .line-f-118 {
+    position: absolute;
+    width: 412.054px;
+    height: 1px;
+    top: 271.475px;
+    left: 562.174px;
+    background: url(../assets/images/b86ed480-0e82-4032-9008-6931c6e55bd4.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 6;
+  }
+  .flex-row-b-118 {
+    position: absolute;
+    width: 950.481px;
+    height: 52.782px;
+    top: 380.983px;
+    left: 29.792px;
+    z-index: 19;
+  }
+  .rectangle-10-118 {
+    position: absolute;
+    width: 39.257px;
+    height: 52.782px;
+    top: 0;
+    left: 0;
+    background: rgba(217, 217, 217, 0.2)
+      url(../assets/images/6abb1e6cfdecc15bffe5d41bbe4c0fdb6123dad7.png) no-repeat
+      center;
+    background-size: cover;
+    z-index: 19;
+    border-radius: 5px;
+  }
+  .product-name-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 18px;
+    top: 0;
+    left: 46.461px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.406px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 18;
+  }
+  .price-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 19.988px;
+    top: 15.971px;
+    left: 848.688px;
+    color: #000000;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.406px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 17;
+  }
+  .product-category-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    width: 370.094px;
+    height: 18px;
+    top: 406.983px;
+    left: 76.253px;
+    color: rgba(0, 0, 0, 0.69);
+    font-family: Roboto, var(--default-font-family);
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 11.719px;
+    text-align: left;
+    text-transform: capitalize;
+    z-index: 20;
+  }
+  .ordered-118 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 15.022px;
+    top: 12px;
+    left: 914.245px;
+    color: #fbb03b;
+    font-family: Roboto, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 15.022px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 28;
+  }
+  
+
+  
+/* Container chính */
+.order-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  /* Danh sách sản phẩm */
+  .product-list {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 20px; /* Khoảng cách giữa các sản phẩm */
+    margin-top: -100px;
+  }
+  /* Mỗi sản phẩm */
+  .product-item {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* Khoảng cách giữa ảnh và chi tiết */
+    border: 1px solid #ddd;
+    width: 960px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Ảnh sản phẩm */
+  .product-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  
+  /* Chi tiết sản phẩm */
+  .product-details {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .product-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Tên sản phẩm */
+  .product-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+  }
+  
+  
+  /* Giá sản phẩm */
+  .price-119 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    align-self: flex-start;
+  }
+  
+  /* Phân loại sản phẩm */
+  .product-category {
+    font-size: 10px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.69);
+  }
+  .summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .summary-table table {
+    width: 980px;
+    margin-left: auto;
+  }
+  
+  .summary-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: right;
+  }
+  
+  .summary-table .label {
+    font-weight: bold;
+  }
+  
+  .summary-table .value {
+    font-weight: 500;
+  }
+  
+  .summary-table td.empty {
+    padding-left: 50px; /* Điều chỉnh khoảng cách trống để căn bảng sang bên phải */
+  }
+  

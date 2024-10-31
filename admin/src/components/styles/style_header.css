@@ -1,0 +1,463 @@
+:root {
+    --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+      "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+      "Source Han Sans CN", sans-serif;
+  }
+  
+  .main-container {
+    overflow: hidden;
+  }
+  
+  .main-container,
+  .main-container * {
+    box-sizing: border-box;
+  }
+  
+  input,
+  select,
+  textarea,
+  button {
+    outline: 0;
+  }
+  
+  .Main-Header-2 {
+    position: relative;
+    width: 1850px;
+    margin: 0 auto;
+    font-size: 0px;
+    background: #e0f4ff;
+    border-radius: 20px;
+    z-index: 1000;
+
+  }
+
+  .micelle-amoid-2 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 46px;
+    left: 1705px;
+    color: #1d5d9b;
+    font-family: Varela Round, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.896px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 77;
+  }
+  .welcome-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 123px;
+    height: 18px;
+    margin: 12px 0 0 220px;
+    color: #000000;
+    font-family: Folks, var(--default-font-family);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17.685px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    opacity: 0.4;
+    z-index: 13;
+  }
+  .rectangle {
+    position: relative;
+    width: 1850px;
+    height: 100px;
+    justify-items: center; /* Căn giữa sản phẩm theo chiều ngang */
+    align-items: center; /* Căn trên theo chiều dọc */
+    margin: 10px 0 0 0;
+    background: #ffffff;
+    box-shadow: 0 4px 61.5px 0 rgba(0, 0, 0, 0.25);
+  }
+  .logo {
+    position: absolute;
+    width: 106px;
+    height: 73px;
+    top: 13px;
+    left: 49px;
+    background: url(../assets/images/81ffe1e91e0b46dbfe9c7fc5aaa895faa29791de.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 14;
+  }
+  .pets-store {
+    position: absolute;
+    width: 207px;
+    height: 59px;
+    top: 20px;
+    left: 161px;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.944px;
+    text-align: center;
+    text-overflow: initial;
+    white-space: nowrap;
+    z-index: 12;
+  }
+  .pets-store a {
+    text-decoration: none;
+  }
+  .pets {
+    position: relative;
+    color: #f57f20;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.944px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none
+  }
+  .store {
+    position: relative;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.944px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none
+  }
+  .inner-plugin-iframe {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 25px;
+    left: 1783px;
+    z-index: 17;
+    overflow: hidden;
+  }
+  
+  .vector {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background: url(../assets/images/26ebd189-ba78-4eef-a299-f5d9ba71e455.png) no-repeat center;
+    background-size: 100% 100%;
+    z-index: 18;
+  
+  }
+  
+  .rectangle-1 {
+    position: relative;
+    width: 796px;
+    height: 43px;
+    top: 28px;
+    left: 624px;
+    display: flex;
+    align-items: center;
+    z-index: 3;
+  }
+  
+  .rectangle-1 input {
+    width: 100%;
+    height: 100%;
+    background: #f4f4f4;
+    border: 1px solid #1d5d9b;
+    border-radius: 20px 20px 20px 20px;
+    padding-left: 15px;
+    z-index: 4;
+  }
+  
+  .magnifying-glass {
+    position: absolute;
+    top: 10px;
+    left: 742px;
+    z-index: 4;
+    overflow: hidden;
+  }
+  .magnifying-glass-2 {
+    position: relative;
+    width: 17.643px;
+    height: 17.643px;
+    margin: 0.68px 0 0 0.68px;
+    background: url(../assets/images/61ebd487-7317-4ad6-ae99-1558fb17c5e9.png)
+      no-repeat center;
+    background-size: 100% 100%;
+    z-index: 5;
+  }
+  .search-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 148px;
+    height: 18px;
+    top: 11px;
+    left: 28px;
+    color: #1d5d9b;
+    font-family: Varela Round, var(--default-font-family);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    opacity: 0.3;
+    z-index: 6;
+  }
+  
+  .search-button {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 30px;
+    width: 30px;
+    background: #1d5d9b;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+    color: white;
+  }
+  .suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: white;
+    border: 1px solid #ddd;
+    list-style-type: none;
+    padding: 0;
+    margin: 2px;
+    z-index: 1000;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid #1d5d9b;
+
+  }
+  
+  .suggestions li {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1000;
+  }
+  
+  .suggestions li:hover {
+    background: #f0f0f0;
+    border-radius: 20px 20px 20px 20px;
+  }
+  
+  .ellipse {
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    top: 31px;
+    left: 1480px;
+    background: url(../assets/images/aa33a4af-b0e2-45f1-be7d-3b25cdb2f845.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 10;
+  }
+  .category {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 105px;
+    height: 29px;
+    top: 35px;
+    left: 443px;
+    color: #1d5d9b;
+    font-family: Varela Round, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.896px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 16px;
+    height: 13px;
+    top: 35px;
+    left: 1483px;
+    color: #ffffff;
+    font-family: Inter, var(--default-font-family);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 13px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 11;
+  }
+  .shopping-cart {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 36px;
+    left: 1456px;
+    z-index: 8;
+    overflow: hidden;
+  }
+  .shopping-cart-3 {
+    position: relative;
+    width: 29.697px;
+    height: 29.714px;
+    margin: 1.143px 0 0 1.16px;
+    background: url(../assets/images/5a1bcb9c-40aa-46ae-825e-ef6901b3c456.png)
+      no-repeat center;
+    background-size: 100% 100%;
+    z-index: 9;
+  }
+  
+  .notification-bell {
+    position: absolute;
+    width: 33px;
+    height: 32px;
+    top: 36px;
+    left: 1550px;
+    z-index: 9;
+    overflow: hidden;
+  }
+  
+  .notification-bell i {
+    font-size: 29px;
+    color: #1d5d9b; /* Màu sắc biểu tượng */
+  }
+  
+  .login-register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 170px;
+    height: 29px;
+    top: 37px;
+    left: 1596px;
+    color: #1d5d9b;
+    font-family: Varela Round, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.896px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 16;
+  }
+  
+  
+  .user-profile {
+    position: absolute;
+    top: 35px;
+    right: 150px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #1d5d9b; /* Ensure this color contrasts well with the background */
+    font-family: Folks, var(--default-font-family);
+    font-size: 18px; /* Ensure the font size is readable */
+    font-weight: 700;
+  }
+  
+  .user-profile a {
+    color: #1d5d9b; /* Link color */
+    text-decoration: none;
+  }
+  
+  .user-profile span {
+    color: #1d5d9b; /* Text color */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Gap between image and username */
+  }
+  
+  .user-dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .user-dropdown img {
+    width: 29px;
+    height: 29px;
+    border-radius: 50%; /* Optional: for rounded avatar */
+  }
+  
+  .user-dropdown button {
+    background: none;
+    border: none;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Gap between image and username */
+  }
+  
+  .dropdown-menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 35px; /* Adjusted to match the height of the button */
+    right: 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    min-width: 150px; /* Ensure dropdown has sufficient width */
+  }
+  
+  .dropdown-menu a,
+  .dropdown-menu button {
+    padding: 10px;
+    color: #1d5d9b;
+    text-decoration: none;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .dropdown-menu a:hover,
+  .dropdown-menu button:hover {
+    background: #f0f0f0;
+  }
+  
+  
+  .inner-plugin-iframe-4 {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 40px;
+    left: 557px;
+    z-index: 50;
+    overflow: hidden;
+  }
+  .vector-5 {
+    position: relative;
+    width: 20.25px;
+    height: 20.25px;
+    margin: 3.375px 0 0 3.375px;
+    background: url(../assets/images/ec95797e-2548-43d6-960a-7c45a00c6bbc.png)
+      no-repeat center;
+    background-size: 100% 100%;
+    z-index: 51;
+  }

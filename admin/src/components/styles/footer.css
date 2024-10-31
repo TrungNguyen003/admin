@@ -1,0 +1,675 @@
+  .flex-row-c-211 {
+    position: absolute;
+    width: 1614px;
+    height: 189px;
+    margin-top: 100px;
+    left: 175px;
+    z-index: 635;
+  }
+  .categories-212 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 0;
+    left: 548px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 611;
+  }
+  .accessories {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 0;
+    left: 811px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 632;
+  }
+  .adopt-213 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 0;
+    left: 1052px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 629;
+  }
+  .pet-parents-214 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 0;
+    left: 1274px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 620;
+  }
+  .about-us {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 0;
+    left: 1512px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 613;
+  }
+  .logo-215 {
+    position: absolute;
+    width: 239px;
+    height: 165px;
+    top: 11px;
+    left: 0;
+    background: url(../assets/images/81ffe1e91e0b46dbfe9c7fc5aaa895faa29791de.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 601;
+  }
+  .bed-furniture {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 40px;
+    left: 810px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 633;
+  }
+  .cat-food-216 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 45px;
+    left: 547px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 603;
+  }
+  .shelters {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 48px;
+    left: 1052px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 624;
+  }
+  .blog-217 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 69px;
+    left: 1274px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 621;
+  }
+  .contact-218 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 79px;
+    left: 1512px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 614;
+  }
+  .hygiene {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 80px;
+    left: 810px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 634;
+  }
+  .dog-food {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 85px;
+    left: 548px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 604;
+  }
+  .adopt-cat {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 88px;
+    left: 1052px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 625;
+  }
+  .vitamins {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 120px;
+    left: 810px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 635;
+  }
+  .treats-219 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 125px;
+    left: 548px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 605;
+  }
+  .adopt-dog {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 128px;
+    left: 1052px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 627;
+  }
+  .support {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 138px;
+    left: 1274px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 622;
+  }
+  .trees-scratchers-21a {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 165px;
+    left: 548px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 606;
+  }
+  .flex-row-21b {
+    position: absolute;
+    width: 1477px;
+    height: 151px;
+    margin-top: 270px;
+    left: 74px;
+    z-index: 637;
+  }
+  .brands-21c {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 0;
+    left: 911px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 636;
+  }
+  .track-order {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 7px;
+    left: 1376px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 616;
+  }
+  .pets-store-21d {
+    position: absolute;
+    width: 467px;
+    height: 133px;
+    top: 9px;
+    left: 0;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 117.888px;
+    text-align: center;
+    text-overflow: initial;
+    white-space: nowrap;
+    z-index: 600;
+  }
+  .pets-21e {
+    position: relative;
+    color: #f57f20;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 117.888px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .store-21f {
+    position: relative;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 117.888px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .pharmacy-220 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 22px;
+    left: 1153px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 630;
+  }
+  .toys-221 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 31px;
+    left: 649px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 607;
+  }
+  .returns {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 47px;
+    left: 1375px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 617;
+  }
+  .prescription {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 67px;
+    left: 1153px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 626;
+  }
+  .accessories-222 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 69px;
+    left: 910px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 637;
+  }
+  .bowls-dishes-223 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 71px;
+    left: 649px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 608;
+  }
+  .shipping-info {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 87px;
+    left: 1375px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 618;
+  }
+  .consult {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 107px;
+    left: 1153px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 628;
+  }
+  .carriers {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 111px;
+    left: 649px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 609;
+  }
+  .help {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 127px;
+    left: 1375px;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 619;
+  }
+  .flex-row-224 {
+    position: absolute;
+    width: 311px;
+    height: 37px;
+    margin-top: 410px;
+    left: 722px;
+    z-index: 638;
+  }
+  .sale-225 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 29px;
+    top: 0;
+    left: 263px;
+    color: #1d5d9b;
+    font-family: Folks-Bold, var(--default-font-family);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 638;
+  }
+  .litter-litter-box {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    height: 24px;
+    top: 13px;
+    left: 0;
+    color: #1d5d9b;
+    font-family: Folks, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.58px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 610;
+  }
+  
+
+ .rectangle-210 {
+  position: relative;
+    width: 1900px;
+    height: 48px;
+    margin: 400px 0 0 -170px;
+    background: #004156;
+    z-index: 134;
+ }
+  .design-hoangphuc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 156px;
+    height: 18px;
+    top: 8px;
+    left: 198px;
+    color: #ffffff;
+    font-family: Folks, var(--default-font-family);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17.685px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 134;
+  }

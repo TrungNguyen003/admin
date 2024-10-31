@@ -1,0 +1,403 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.main-container-5 {
+  overflow: hidden;
+}
+
+.main-container-5,
+.main-container-5 * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container-5 {
+  position: relative;
+  margin: 0 auto;
+  background: rgba(246, 246, 246, 0.5);
+  overflow: hidden;
+}
+.rectangle-5 {
+  position: relative;
+  width: 1920px;
+  height: 100px;
+  margin: 23px 0 0 0;
+  background: #ffffff;
+  z-index: 1;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
+}
+.logo-5 {
+  position: absolute;
+  width: 106px;
+  height: 73px;
+  top: 17px;
+  left: 49px;
+  background: url(../assets/images/81ffe1e91e0b46dbfe9c7fc5aaa895faa29791de.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 4;
+}
+.pets-store-5 {
+  position: absolute;
+  width: 207px;
+  height: 59px;
+  top: 24px;
+  left: 161px;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58.944px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 3;
+}
+.pets-5 {
+  position: relative;
+  color: #f57f20;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58.944px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.store-5 {
+  position: relative;
+  color: #1d5d9b;
+  font-family: Folks-Bold, var(--default-font-family);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58.944px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.login-5 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 38px;
+  top: 35px;
+  left: 1729px;
+  color: #002795;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 37.5px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 2;
+}
+.flex-row-dd-5 {
+  position: relative;
+  width: 869px;
+  height: 869px;
+  margin: 16px 0 0 535px;
+  z-index: 7;
+}
+.rectangle-1-5 {
+  position: absolute;
+  width: 850px;
+  height: 850px;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  z-index: 7;
+  box-shadow: 6px 0 12px 0 rgba(0, 0, 0, 0.12);
+}
+.flex-row-5 {
+  position: relative;
+  width: 435px;
+  height: 73px;
+  margin: 44px 0 0 43px;
+  z-index: 28;
+}
+.vector-5 {
+  position: absolute;
+  width: 9.2%;
+  height: 54.79%;
+  top: 0;
+  left: 0;
+  background: url(../assets/images/eefc0b0f-c831-48e7-8735-5827205b6ac5.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 27;
+}
+.logo-2-5 {
+  position: absolute;
+  width: 106px;
+  height: 73px;
+  top: 0;
+  left: 329px;
+  background: url(../assets/images/81ffe1e91e0b46dbfe9c7fc5aaa895faa29791de.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 8;
+}
+.dashboard-5{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 38px;
+  top: 1.09px;
+  left: 59px;
+  color: #002795;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 37.5px;
+  text-align: left;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 28;
+}
+.welcome-back-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 165px;
+  height: 28px;
+  margin: 24px 0 0 343px;
+  color: #000000;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  opacity: 0.8;
+  z-index: 10;
+}
+.login-3-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 161px;
+  height: 75px;
+  margin: 38px 0 0 345px;
+  color: #002795;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 75px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 11;
+}
+.sign-in-account-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 340px;
+  height: 38px;
+  margin: 17px 0 0 255px;
+  color: #000000;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  opacity: 0.8;
+  z-index: 12;
+}
+.rectangle-4-5 {
+  position: relative;
+  width: 650px;
+  height: 60px;
+  margin: 107px 0 0 100px;
+  background: #edf2f7;
+  z-index: 14;
+  overflow: hidden;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.flex-row-d-5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 182px;
+  height: 34px;
+  margin: 13px 0 0 16px;
+  z-index: 24;
+}
+.lets-icons-user-duotone {
+  flex-shrink: 0;
+  position: relative;
+  width: 34px;
+  height: 34px;
+  z-index: 24;
+  overflow: hidden;
+}
+.vector-5-5 {
+  position: relative;
+  width: 11.333px;
+  height: 11.333px;
+  margin: 5.667px 0 0 11.333px;
+  background: url(../assets/images/47481668-1a6b-4b63-b712-d64fb6ba063a.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 25;
+}
+.vector-6-5 {
+  position: relative;
+  width: 19.77px;
+  height: 8.5px;
+  margin: 1.417px 0 0 7.114px;
+  background: url(../assets/images/5d904e8b-7300-45c6-b69c-fd107b7acadd.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 26;
+}
+.user-name-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  width: 300%;
+  height: 50px;
+  padding: 20px;
+  background: #edf2f7;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  white-space: nowrap;
+  border: none;
+  z-index: 20;
+}
+.rectangle-7-5 {
+  position: relative;
+  width: 650px;
+  height: 1px;
+  margin: 12px 0 0 0;
+  background: rgba(0, 39, 149, 0.5);
+  z-index: 18;
+}
+.rectangle-8-5 {
+  position: relative;
+  width: 650px;
+  height: 60px;
+  margin: 17px 0 0 100px;
+  background: #edf2f7;
+  z-index: 15;
+  overflow: hidden;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.flex-row-fe-5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 170px;
+  height: 34px;
+  margin: 13px 0 0 16px;
+  z-index: 22;
+}
+.ph-key-bold-5 {
+  flex-shrink: 0;
+  position: relative;
+  width: 34px;
+  height: 34px;
+  opacity: 0.7;
+  z-index: 22;
+  overflow: hidden;
+}
+.vector-9-5 {
+  position: relative;
+  width: 29.755px;
+  height: 29.724px;
+  margin: 1.62px 0 0 2.656px;
+  background: url(../assets/images/ddb6b469-824e-4068-9519-01325538a3f7.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 23;
+}
+.password-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  background: #edf2f7;
+  width: 120px;
+  height: 28px;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  border: none;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 21;
+}
+.rectangle-a-5 {
+  position: relative;
+  width: 650px;
+  height: 1px;
+  margin: 12px 0 0 0;
+  background: rgba(0, 39, 149, 0.5);
+  z-index: 19;
+}
+.rectangle-btn-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 650px;
+  height: 80px;
+  margin: 30px 0 0 100px;
+  cursor: pointer;
+  background: #002795;
+  border: none;
+  z-index: 17;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.login-span-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  width: 81px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Roboto, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 38px;
+  text-align: center;
+  text-transform: capitalize;
+  white-space: nowrap;
+  z-index: 17;
+}
+.rectangle-b-5 {
+  position: absolute;
+  width: 850px;
+  height: 850px;
+  top: 19px;
+  left: 19px;
+  background: rgba(0, 39, 149, 0.8);
+  z-index: 6;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
